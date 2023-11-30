@@ -76,7 +76,7 @@ async def pm_text(bot, message):
     if user_id in ADMINS: return # ignore admins
     await message.reply_text(
          text="<b>ʜᴇʏ ᴅᴜᴅᴇ 😍 ,\n\nʏᴏᴜ ᴄᴀɴ'ᴛ ɢᴇᴛ ᴍᴏᴠɪᴇs ꜰʀᴏᴍ ʜᴇʀᴇ. ʀᴇǫᴜᴇsᴛ ᴏɴ ᴏᴜʀ ᴍᴏᴠɪᴇ ɢʀᴏᴜᴘ ᴏʀ ᴄʟɪᴄᴋ ʀᴇǫᴜᴇsᴛ ʜᴇʀᴇ ʙᴜᴛᴛᴏɴ ʙᴇʟᴏᴡ​👇</b>",   
-         reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton("📝 ʀᴇǫᴜᴇsᴛ ʜᴇʀᴇ​ ", url=f"https://t.me/snfilmy")]])
+         reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton("📝 ʀᴇǫᴜᴇsᴛ ʜᴇʀᴇ​ ", url=f"https://t.me/+UZZ61cb1twtkZDJl")]])
     )
             
 @Client.on_callback_query(filters.regex(r"^next"))
@@ -247,7 +247,7 @@ async def next_page(bot, query):
         InlineKeyboardButton("ʟᴀɴɢᴜᴀɢᴇs", callback_data=f"select_lang#{req}")
     ])
     btn.insert(0, [
-        InlineKeyboardButton("⛔ ʜᴏᴡ ᴛᴏ ᴏᴘᴇɴ ᴛʜɪꜱ ʟɪɴᴋ ⛔", url=HOW_TO_DOWNLD)
+        InlineKeyboardButton("👉 MR MovieZ UpdateZ 👈", url=HOW_TO_DOWNLD)
     ])
     try:
         await query.edit_message_reply_markup(
@@ -360,7 +360,7 @@ async def language_check(bot, query):
         ])
 
         btn.insert(0, [
-            InlineKeyboardButton("⛔ ʜᴏᴡ ᴛᴏ ᴏᴘᴇɴ ᴛʜɪꜱ ʟɪɴᴋ ⛔", url=HOW_TO_DOWNLD)
+            InlineKeyboardButton("👉 MR MovieZ UpdateZ 👈", url=HOW_TO_DOWNLD)
         ])
 
         if offset != "":
@@ -1635,7 +1635,7 @@ async def auto_filter(client, msg, spoll=False):
     ])
 
     btn.insert(0, [
-        InlineKeyboardButton("⛔ ʜᴏᴡ ᴛᴏ ᴏᴘᴇɴ ᴛʜɪꜱ ʟɪɴᴋ ⛔", url=HOW_TO_DOWNLD)
+        InlineKeyboardButton("👉 MR MovieZ UpdateZ 👈", url=HOW_TO_DOWNLD)
     ])
 
     if offset != "":
