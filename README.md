@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://graph.org/file/d208327ef06bc32765e29.jpg" alt="CREZY-BOTZ Logo">
+  <img src="https://mallucampaign.in/images/img_1701423848.jpg" alt="MR BOTZ Logo">
 </p>
 <h1 align="center">
   𝐌 𝐀 𝐒 𝐓 𝐄 𝐑
