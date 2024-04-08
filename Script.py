@@ -192,7 +192,7 @@ Nᴀᴍᴇ - {}"""
 
 🔁 𝒇𝒊𝒍𝒆 𝒔𝒊𝒛𝒆 - {file_size}
 
-<a href='t.me/moviezrockerz1'>MR MovieZ UpdateZ</a> ✅</b>"""
+<a href='t.me/moviezrockerz1'>𝑴𝑹 𝑼𝒑𝒅𝒂𝒕𝒆𝒁</a> ✅</b>"""
     
 
     IMDB_TEMPLATE_TXT = """
